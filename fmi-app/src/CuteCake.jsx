@@ -41,7 +41,7 @@ export default function CuteCake() {
             rx="26"
           />
 
-          {/* TOPPING */}
+          {/* TOPPING 2 */}
           <g className="cake-topping">
             <rect x="40" y="55" width="320" height="50" rx="26" />
             <path
